@@ -1,4 +1,9 @@
-// array functions
+// array functions - implementing those that are able to be implemented
+// some of these can't be implemented, due to how arrays are:
+//   - arrays have no internal knowledge of their length, so if a function can get 
+//     differing length arrays, length should also be provided to the function
+//   - there is no default "uninitialised" flag for variables, or array elements
+// class T17A, 12/10/21
 
 #include <stdio.h>
 

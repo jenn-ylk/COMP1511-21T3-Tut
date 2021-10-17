@@ -1,4 +1,5 @@
 // a program that contains, and runs, a few pointer functions
+// class T17A, 12/10/21
 
 #include <stdio.h>
 
